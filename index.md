@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "问问小宇宙皮肤插件"
   text: "问问小宇宙皮肤插件"
-  tagline: "问问小宇宙、ask.xiaoyuzhoufm、换肤插件"
+  tagline: "问问小宇宙、ask.xiaoyuzhoufm、皮肤插件"
 
 features:
   - icon:
