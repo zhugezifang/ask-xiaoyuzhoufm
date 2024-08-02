@@ -10,7 +10,8 @@ export default defineConfig({
     logo: '/icon_128.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '产品介绍', link: '/change-logs' }
+      { text: '产品介绍', link: '/change-logs' },
+      { text: '隐私协议', link: '/privacy' }
     ],
     socialLinks: [  
       { icon: 'twitter', link: 'https://twitter.com/zhugezifang', ariaLabel: 'X' }
