@@ -11,7 +11,7 @@ features:
   - icon:
       light: /googlechrome-light.svg
     title: Chrome 插件商店
-    link: https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E4%B9%A6ai%E5%8A%A9%E6%89%8B/aeipfcbfnekejjdgjgafdjfjidlknaga?authuser=0&hl=en
+    link: https://chromewebstore.google.com/detail/%E9%97%AE%E9%97%AE%E5%B0%8F%E5%AE%87%E5%AE%99%E7%9A%AE%E8%82%A4%E6%8F%92%E4%BB%B6/jahdbjoinjiaklfkpkckffaelpdcdhdf?authuser=0&hl=zh-CN
     rel: external  
 ---
 
